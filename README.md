@@ -118,13 +118,13 @@ This more granular detailed report analyses data from the company distributors' 
 ## Findings
 The following are the findings from the analysis of the sales data:
 
-In analysing the sales data shared by each distributor with Foresight Pharmaceutical Company, it became clear that there were no sales in Poland in 2017, 2019 and 2020. This had a significant impact on the total sales made in Poland which stood at 5.77% as against Germany's 94.23%. One of the factors that contributed to this situation would have been that products were not delivered to distributors in Poland.
+- In analysing the sales data shared by each distributor with Foresight Pharmaceutical Company, it became clear that there were no sales in Poland in 2017, 2019 and 2020. This had a significant impact on the total sales made in Poland which stood at 5.77% as against Germany's 94.23%. One of the factors that contributed to this situation would have been that products were not delivered to distributors in Poland.
 
--The next point of notice is that the top 10 products with the highest sales were all from Germany while the bottom 10 products with the lowest were all from Poland for the years under analysis.
+- The next point of notice is that the top 10 products with the highest sales were all from Germany while the bottom 10 products with the lowest were all from Poland for the years under analysis.
 
--In terms of the channel of distribution, pharmacy recorded the highest sales with 53.94% in total sales. More sales were made via retail subchannel with about 4% in sales ahead of institution.
+- In terms of the channel of distribution, pharmacy recorded the highest sales with 53.94% in total sales. More sales were made via retail subchannel with about 4% in sales ahead of institution.
 
--There was a 7.13% increase in sales in sales in Germany via the hospital channel in 2018, but a 1.79% and -13.40% in sales in 2019 and 2020 respectively. The sales representation in 2020 would have been as a result of the COVID19 pandemic.
+- There was a 7.13% increase in sales in sales in Germany via the hospital channel in 2018, but a 1.79% and -13.40% in sales in 2019 and 2020 respectively. The sales representation in 2020 would have been as a result of the COVID19 pandemic.
 
 ## How To Use
 ### Read-only direct access via the web (Recommended)
