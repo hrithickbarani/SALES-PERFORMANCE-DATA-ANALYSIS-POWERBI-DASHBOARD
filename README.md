@@ -3,8 +3,6 @@
 # Pharmaceutical Sales Analysis
 This project simulates a real-world **sales performance analysis** for **Phoenix Group**, similar to work done at Kantar. Using Power BI, we analyzed raw sales data from a global pharmaceutical company to uncover key business insights, optimize revenue strategies, and improve market performance.
 
-<img src="https://github.com/sssingh/pharmaceutical-sales-analysis-powerbi/blob/main/images/pharma-title-image.png?raw=true" width="1000" height="500" />
-
 ## Features
 ⚡PowerBI Desktop   
 ⚡PowerQuery Editor [For data-transformation/data-modeling]  
